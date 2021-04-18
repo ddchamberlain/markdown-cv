@@ -2,6 +2,7 @@
 layout: cv
 title: Daniel Chamberlain CV
 ---
+
 # Daniel Chamberlain
 April 2021
 
