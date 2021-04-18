@@ -50,8 +50,8 @@ __University of Michigan, Honors College.__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`1997`
+President, *King of the World*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
 
