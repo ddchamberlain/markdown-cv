@@ -4,10 +4,10 @@ title: Daniel Chamberlain CV
 ---
 
 # Daniel Chamberlain
-April 2021
+<div id="date">April 2021</div>
 
 <div id="webaddress">
-<a href="daniel.d.chamberlain@dartmouth.edu">daniel.d.chamberlain@dartmouth.edu</a>
+  <a href="daniel.d.chamberlain@dartmouth.edu">daniel.d.chamberlain@dartmouth.edu</a>
 | <a href="https://library.dartmouth.edu/staffdir/bio.php?emp=625">My Dartmouth page</a>
 </div>
 
