@@ -1,45 +1,50 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Daniel Chamberlain CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Daniel Chamberlain
+April 2021
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="daniel.d.chamberlain@dartmouth.edu">daniel.d.chamberlain@dartmouth.edu</a>
+| <a href="https://library.dartmouth.edu/staffdir/bio.php?emp=625">My Dartmouth page</a>
 </div>
+
+6025 Main St, Hanover, NH 03755				40 School St, Hanover, NH 03755
+chamberlain@dartmouth.edu					daniel.chamberlain@gmail.com
+603.646.2582							 310.770.6049
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Associate Librarian for Digital Strategies, Dartmouth
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Digital transformation of Academic Libraries.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Placemaking. Emergent Media Technologies.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2009`
+__University of Southern California, School Cinematic Arts__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Ph.D in Critical Media Studies
 
-- Sizar
+`2004`
+__University of Southern California, School Cinematic Arts__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- M.A. in Critical Media Studies
 
-- Fellow
+`1994`
+__University of Michigan, Honors College.__
 
+- B.A. in Economics, with honors
 
 
 ## Awards
@@ -58,7 +63,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
@@ -87,5 +92,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
